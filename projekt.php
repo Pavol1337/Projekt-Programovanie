@@ -7,9 +7,7 @@
 </head>
 <body>
     <?php
-echo "PHP funguje 🔥";
-echo "Ahoj světe!";
-echo "Bruno je spomalney"
+
 ?>
 </body>
 </html>
