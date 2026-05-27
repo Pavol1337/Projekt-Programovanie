@@ -1,7 +1,5 @@
 -- ============================================
 -- GameTracker - SQL skript pre vytvorenie DB
--- Autor: [meno studenta]
--- Datum: Maj 2026
 -- ============================================
 
 -- Vytvorenie databazy
